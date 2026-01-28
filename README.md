@@ -113,4 +113,4 @@ Best performing model: **Logistic Regression with Balanced Class Weights or SMOT
 
 ## Team Member Contributions
 - Michael - EDA, data processing, model training, model evaluation, analysis
-- Alex - EDA, model training, imbalanced data handling, hyperparameter tuning, imbalanced data handling, model evaluation
+- Alex - EDA, model training, imbalanced data handling, hyperparameter tuning, model evaluation
